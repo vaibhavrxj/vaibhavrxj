@@ -1,6 +1,6 @@
 🌟 Third-Year B.Tech CSE Student | Full-Stack Web Developer | Android Enthusiast
 
-Hey there! I'm [Your Name], a passionate third-year B.Tech student majoring in Computer Science and Engineering. When I'm not diving into my coursework, you'll find me coding away as a full-stack web developer, building sleek and efficient applications from the ground up.
+Hey there! I'm Vaibhav, a passionate third-year B.Tech student majoring in Computer Science and Engineering. When I'm not diving into my coursework, you'll find me coding away as a full-stack web developer, building sleek and efficient applications from the ground up.
 
 💻 Web Development: I thrive on creating dynamic, responsive web applications that deliver seamless user experiences. Whether it's frontend magic with React or backend wizardry with Node.js, I'm all about making the web a better place, one line of code at a time.
 
