@@ -1,20 +1,34 @@
-🌟 Third-Year B.Tech CSE Student | Full-Stack Web Developer | Android Enthusiast
+# Hey there! I'm Vaibhav 👋
 
-Hey there! I'm Vaibhav, a passionate third-year B.Tech student majoring in Computer Science and Engineering. When I'm not diving into my coursework, you'll find me coding away as a full-stack web developer, building sleek and efficient applications from the ground up.
+### 🚀 M.Tech AI & ML Student | Full-Stack Developer | Android Developer | AI Enthusiast
 
-💻 Web Development: I thrive on creating dynamic, responsive web applications that deliver seamless user experiences. Whether it's frontend magic with React or backend wizardry with Node.js, I'm all about making the web a better place, one line of code at a time.
+I'm a passionate developer and tech enthusiast currently pursuing my **M.Tech in Artificial Intelligence & Machine Learning at Lovely Professional University (LPU)**, building upon my **B.Tech in Computer Science & Engineering**.
 
-📱 Android Development: Alongside my web projects, I'm diving into the world of Android development, where I’m eager to build intuitive and engaging mobile apps. My minor in Android has me exploring the latest in mobile tech and best practices.
+My journey started with web and Android development, and now I'm expanding into the fascinating world of **Artificial Intelligence, Machine Learning, and Deep Learning**. I love combining traditional software engineering with intelligent technologies to build innovative, scalable, and real-world solutions.
 
-🚀 What Drives Me: I’m motivated by the challenge of solving complex problems and the thrill of turning ideas into functional, user-friendly software. I’m always looking to learn, innovate, and collaborate with like-minded individuals.
+### 🧠 Artificial Intelligence & Machine Learning
+Currently exploring Machine Learning, Deep Learning, Neural Networks, Natural Language Processing, and intelligent systems. I'm particularly interested in developing AI-powered applications, predictive models, and practical solutions to complex real-world problems.
 
-🌐 Currently Exploring: Advanced web technologies, mobile app frameworks, and new ways to improve user experience.
+### 💻 Full-Stack Web Development
+Experienced in building dynamic, responsive, and user-friendly web applications. I enjoy working with **React.js, Node.js, JavaScript**, and modern web technologies to develop seamless frontend experiences and robust backend systems.
 
-📫 Let’s Connect: I’m always open to new opportunities, collaborations, or just a chat about tech. Feel free to reach out or check out my projects below!
+### 📱 Android Development
+With a strong foundation in Android development from my B.Tech, I enjoy building intuitive mobile applications and exploring ways to integrate AI-powered features into mobile experiences.
 
+### 🔬 Research & Innovation
+As an M.Tech student, I'm developing my understanding of advanced ML algorithms, deep learning architectures, data analysis, and research methodologies. I'm passionate about bridging the gap between academic research and practical software development.
 
+### ⚡ What Drives Me
+I believe the future of technology lies at the intersection of **AI, software engineering, and innovation**. Whether it's training an ML model, developing a full-stack application, or building an Android app, I enjoy transforming challenging ideas into meaningful solutions.
 
-<!---
-vaibhavrxj/vaibhavrxj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🌱 Currently Learning
+- Machine Learning & Deep Learning
+- Neural Networks & AI Architectures
+- Python, TensorFlow & Scikit-learn
+- AI-Powered Web & Mobile Applications
+- Research Methodologies & Intelligent Systems
+
+### 🤝 Let's Connect!
+I'm always open to collaborating on **AI/ML research, open-source projects, full-stack applications, and innovative technology solutions**.
+
+**Let's build something intelligent together! 🚀**
